@@ -1,1 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Sample MIME Types File (Sun Java System Web Server 7.0 Administrator's Configuration File Reference) </title><meta content="application/x-sh; charset=utf-8" http-equiv="Content-Type" /></head><body>ls;</body>
+ls
